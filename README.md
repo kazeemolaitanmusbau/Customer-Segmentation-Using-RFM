@@ -24,3 +24,13 @@ Recency, Frequency, Monetary values RFM is a marketing analysis tool used to ide
 
 These three RFM factors can be used to reasonably predict how likely (or unlikely) it is that a customer will do business again with a firm or, in the case of a charitable organization, make another donation.
 
+# Brief  history of rfm
+The concept of recency, frequency, monetary value (RFM) is thought to date from an article by Jan Roelf Bult and Tom Wansbeek, "Optimal Selection for Direct Mail," published in a 1995 issue of Marketing Science. RFM analysis often supports the marketing adage that "80% of business comes from 20% of the customers."
+
+# Significance of Recency, Frequency, Monetary Value
+`RFM analysis` allows a comparison between potential contributors or clients. It gives organizations a sense of how much revenue comes from repeat customers (versus new customers), and which levers they can pull to try to make customers happier so they become repeat purchasers.
+
+Despite the useful information that is acquired through RFM analysis, firms must take into consideration that even the best customers will not want to be over-solicited, and the lower-ranking customers may be cultivated with additional marketing efforts. It works as a snapshot of the clientele and as a tool to prioritize nurturing
+
+
+
