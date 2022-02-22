@@ -33,4 +33,10 @@ The concept of recency, frequency, monetary value (RFM) is thought to date from 
 Despite the useful information that is acquired through RFM analysis, firms must take into consideration that even the best customers will not want to be over-solicited, and the lower-ranking customers may be cultivated with additional marketing efforts. It works as a snapshot of the clientele and as a tool to prioritize nurturing
 
 
+# Benefits of RFM Analysis
+
+- Increased customer retention
+- Increased response rate
+- Increased conversion rate
+- Increased revenue
 
